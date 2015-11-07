@@ -10,10 +10,10 @@ public class Bissexto {
       int ano = leitor.nextInt();      
       
       if (((ano % 4)==0) & ((ano % 100)!=0) & ((ano % 400)!=0)) {
-          System.out.println("O ano é bissexto");
+          System.out.println("O ano é bissexto, antonio");
       } else{
-          System.out.println("O ano não é bissexto");          
-      }
+          System.out.println("O ano não é bissexto, antonio ");          
+      } /*legacy coisaslegaisn oihufdvdvdkajbfuargiufofbfvhfhddddddud*/
     
           }
 }
